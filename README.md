@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type           |Description                                                                                                                                |Date fixed
 -----------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------
+2020-11-04 |Bug report     |[msa::msaConvert to AAbin format results in incorrect FASTA](https://github.com/UBod/msa/issues/7)                                         |Not yet
 2020-11-04 |Bug report     |[msa::msaConvert to seqinr format results in incorrect FASTA](https://github.com/UBod/msa/issues/6)                                        |Not yet
 2020-11-04 |Bug report     |[bios2mds::export.fasta adds NAs for short sequences](https://github.com/richelbilderbeek/reports/issues/1)                                |Not yet
 2020-10-28 |Bug report     |[BALCONY: Unhelpful error message when calling RealValET_conservativity](https://github.com/stolarczyk/BALCONY/issues/14)                  |Not yet
