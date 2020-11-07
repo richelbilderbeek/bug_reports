@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------
+2020-11-07 |Bug report         |[ape::write.FASTA crashes R when saved to a nonexisting folder](https://github.com/richelbilderbeek/reports/issues/8)                      |No response yet
 2020-11-04 |Bug report         |[msa::msaConvert to AAbin format results in incorrect FASTA](https://github.com/UBod/msa/issues/7)                                         |No response yet
 2020-11-04 |Bug report         |[msa::msaConvert to seqinr format results in incorrect FASTA](https://github.com/UBod/msa/issues/6)                                        |No response yet
 2020-11-04 |Bug report         |[bios2mds::export.fasta adds NAs for short sequences](https://github.com/richelbilderbeek/reports/issues/1)                                |In discussion
