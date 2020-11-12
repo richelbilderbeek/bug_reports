@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------
+2020-11-12 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/157)                                            |No response yet
 2020-11-09 |Feature request    |[COBALT suggestion: list of matrices](https://github.com/richelbilderbeek/reports/issues/9)                                                |No response yet
 2020-11-07 |Bug report         |[ape::write.FASTA crashes R when saved to a nonexisting folder](https://github.com/richelbilderbeek/reports/issues/8)                      |Accepted and fixed at 2020-11-09 (2 days)
 2020-11-04 |Bug report         |[msa::msaConvert to AAbin format results in incorrect FASTA](https://github.com/UBod/msa/issues/7)                                         |No response yet
