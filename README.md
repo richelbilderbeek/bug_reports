@@ -3,10 +3,10 @@
 I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------
-2020-11-16 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/158)                                            |No response yet
+-----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2020-11-16 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/158)                                            |Workaround at 2020-11-017 (1 day), discuss best approach to fix
 2020-11-12 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/157)                                            |Accepted and promise to add at 2020-11-16 (3 days)
-2020-11-09 |Feature request    |[COBALT suggestion: list of matrices](https://github.com/richelbilderbeek/reports/issues/9)                                                |No response yet
+2020-11-09 |Feature request    |[COBALT suggestion: list of matrices](https://github.com/richelbilderbeek/reports/issues/9)                                                |First reponse 2020-11-09 (0 days), sent patch 2020-11-14 (5 days)
 2020-11-07 |Bug report         |[ape::write.FASTA crashes R when saved to a nonexisting folder](https://github.com/richelbilderbeek/reports/issues/8)                      |Accepted and fixed at 2020-11-09 (2 days)
 2020-11-04 |Bug report         |[msa::msaConvert to AAbin format results in incorrect FASTA](https://github.com/UBod/msa/issues/7)                                         |No response yet
 2020-11-04 |Bug report         |[msa::msaConvert to seqinr format results in incorrect FASTA](https://github.com/UBod/msa/issues/6)                                        |No response yet
@@ -47,6 +47,7 @@ Date posted|Type               |Description                                     
 2018-10-03 |Bug report         |[mbd: Cannot do ML estimation on BD trees](https://github.com/Giappo/mbd/issues/4)                                                         |Unknown, response on 2018-10-03 (0 days)
 2018-04-17 |Feature suggest    |[pbd: Suggestion: sampletree supports 'shortest' and 'longest'](https://github.com/rsetienne/PBD/issues/17)                                |Fixed on 2018-04-28 (11 days)
 2017-05-16 |Feature suggest    |[Meschach: fixing warnings?](https://github.com/yageek/Meschach/issues/6)                                                                  |No response yet
+2016-08-25 |Improvement suggest|[OCLint: Added documentation for qmake](https://github.com/oclint/oclint-docs/pull/20)                                                     |First response at 2016-09-09 (16 days), second reply at 2017-07-15, closed without reason at 2020-11-19 (4 years and 3 months)
 2016-08-03 |Improvement suggest|[coda: suggested examples for effectiveSize documentation](https://github.com/richelbilderbeek/reports/issues/2)                           |No response yet
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: if statements should use && for booleans](https://github.com/MangoTheCat/goodpractice/issues/22)                |Agreed on 2016-08-01, status unknown 
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'setwd("some_location")'](https://github.com/MangoTheCat/goodpractice/issues/21)      |Agreed on 2016-08-01, status unknown 
