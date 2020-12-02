@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2020-12-02 |Feature request    |[rentrez suggestion: full URL in error message](https://github.com/ropensci/rentrez/issues/159)                                            |No response yet
 2020-11-26 |Bug report         |[PureseqTM: order of genes from FASTA not preserved](https://github.com/PureseqTM/PureseqTM_Package/issues/11)                             |No response yet
 2020-11-16 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/158)                                            |Workaround at 2020-11-017 (1 day), discuss best approach to fix
 2020-11-12 |Feature request    |[rentrez suggestion: give better error message](https://github.com/ropensci/rentrez/issues/157)                                            |Accepted and promise to add at 2020-11-16 (3 days)
