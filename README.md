@@ -24,6 +24,9 @@ Date posted|Type               |Description                                     
 2020-10-13 |Bug report         |[Plasma Proteome Database: contact form broken](https://github.com/richelbilderbeek/bbbq_article/issues/126)                               |No response yet
 2020-10-12 |Bug report         |[Request: show expected output in README.md](https://github.com/aminodektc/Downloads/issues/3)                                             |No response yet
 2020-10-12 |Question           |[Question: what are all these numbers?](https://github.com/aminodektc/Downloads/issues/2)                                                  |No response yet
+2020-10-08 |Bug report         |[msa: Cannot load library silently](https://github.com/UBod/msa/issues/5)                                                                  |No response yet
+2020-10-08 |Bug report         |[msa: object 'msaClustalW' of mode 'function' was not found](https://github.com/UBod/msa/issues/4)                                         |No response yet
+2020-09-29 |Code request       |[Bianchi et al., 2020](https://github.com/richelbilderbeek/reports/issues/11)                                                              |No response yet
 2020-09-29 |Bug report         |[veg: Error in Observable 'Genomic diversity and divergence of SARS-CoV-2/COVID-19' worksheet](https://github.com/veg/SARS-CoV-2/issues/6) |No response yet
 2020-09-22 |Feature suggest    |[ClustalOmega: suggestion for better error message](https://github.com/richelbilderbeek/reports/issues/7)                                  |No response yet
 2020-06-22 |Feature request    |[MHCnuggets: feature request: allow for silent/verbose mode](https://github.com/KarchinLab/mhcnuggets/issues/17)                           |Response on 2020-09-29 (3 months later), half-promise to fix one day
