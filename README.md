@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-01-22 |Bug report         |[PureseqTM: Bug report: PureseqTM does not give an error on garbage input](https://github.com/PureseqTM/PureseqTM_Package/issues/14)       |No response yet
 2021-01-22 |Bug report         |[PureseqTM: Bug report: no error when topology cannot be predicted](https://github.com/PureseqTM/PureseqTM_Package/issues/13)              |No response yet
 2021-01-19 |Question           |[PureseqTM: How are selenocysteins handled?](https://github.com/PureseqTM/PureseqTM_Package/issues/12)                                     |No response yet
 2021-01-15 |Question           |[TMHMM: difference between online and local handling of sequences with a U](https://github.com/richelbilderbeek/reports/issues/17)         |No response yet
