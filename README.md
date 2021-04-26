@@ -6,7 +6,7 @@ Date posted|Type               |Description                                     
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
 2021-04-26 |Question           |[Code GASVeM](https://github.com/richelbilderbeek/reports/issues/18)                                                                       |No response yet
 2021-04-26 |Question           |[GMA: Which license?](https://github.com/chaoning/GMA/issues/1)                                                                            |No response yet
-2021-04-23 |Suggest            |[PathWAS: Suggest: add license, tests and/or continuous integration](https://github.com/Sabor117/PathWAS/issues/1                          |No response yet
+2021-04-23 |Suggest            |[PathWAS: Suggest: add license, tests and/or continuous integration](https://github.com/Sabor117/PathWAS/issues/1)                         |No response yet
 2021-04-22 |Suggest            |[Hydra: Suggest: add continuous integration](https://github.com/medical-genomics-group/hydra/issues/25)                                    |No response yet
 2021-04-22 |Suggest            |[fastCGP](https://github.com/YuanlongLiu/fastCGP/issues/1)                                                                                 |No response yet
 2021-04-21 |Question           |[simGWAS: Which version? This one, or the fork?](https://github.com/mdfortune/simGWAS/issues/7)                                            |No response yet
