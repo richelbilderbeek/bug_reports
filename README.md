@@ -4,9 +4,10 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-04-26 |Question           |[GMA: Which license?](https://github.com/chaoning/GMA/issues/1)                                                                            |No response yet
 2021-04-23 |Suggest            |[PathWAS: Suggest: add license, tests and/or continuous integration](https://github.com/Sabor117/PathWAS/issues/1                          |No response yet
 2021-04-22 |Suggest            |[Hydra: Suggest: add continuous integration](https://github.com/medical-genomics-group/hydra/issues/25)                                    |No response yet
-2021-04-22 |Suggest            |[](https://github.com/YuanlongLiu/fastCGP/issues/1)                                                                                        |No response yet
+2021-04-22 |Suggest            |[fastCGP](https://github.com/YuanlongLiu/fastCGP/issues/1)                                                                                 |No response yet
 2021-04-21 |Question           |[simGWAS: Which version? This one, or the fork?](https://github.com/mdfortune/simGWAS/issues/7)                                            |No response yet
 2021-04-21 |Suggest            |[simGWAS: Suggest: remove backup files](https://github.com/mdfortune/simGWAS/issues/5)                                                     |No response yet
 2021-04-21 |Question           |[G2P: What is the license of G2P?](https://github.com/XiaoleiLiuBio/G2P/issues/5)                                                          |No response yet
