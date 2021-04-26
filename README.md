@@ -76,10 +76,6 @@ Date posted|Type               |Description                                     
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'setwd("some_location")'](https://github.com/MangoTheCat/goodpractice/issues/21)      |Agreed on 2016-08-01, status unknown 
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'rm(list = ls())'](https://github.com/MangoTheCat/goodpractice/issues/20)             |Will check on 2016-08-01, status unknown 
 2016-05-09 |Bug report         |[rBEAST: rBEAST will not build](https://github.com/olli0601/rBEAST/issues/3)                                                               | No response yet
-
-
 2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/qxzkjp/Vigenere/issues/1)                                                     | No response yet
 2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/ekeller1983/Vigenere/issues/1)                                                | No response yet
-
-
 
