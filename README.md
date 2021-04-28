@@ -14,8 +14,8 @@ Date posted|Type               |Description                                     
 2021-04-21 |Suggest            |[simGWAS: Suggest: remove backup files](https://github.com/mdfortune/simGWAS/issues/5)                                                     |No response yet
 2021-04-21 |Question           |[G2P: What is the license of G2P?](https://github.com/XiaoleiLiuBio/G2P/issues/5)                                                          |No response yet
 2021-04-21 |Question           |[G2P: Where is the source code?](https://github.com/XiaoleiLiuBio/G2P/issues/3)                                                            |No response yet
-2021-04-14 |Suggest            |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/issues/11)                                 |No response yet
-2021-04-14 |Suggest            |[SKAT: Suggest: no use of attach in examples](https://github.com/leeshawn/SKAT/issues/10)                                                  |No response yet
+2021-04-14 |Suggest            |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/issues/11)                                 |Start dialog on 2021-04-28
+2021-04-14 |Suggest            |[SKAT: Suggest: no use of attach in examples](https://github.com/leeshawn/SKAT/issues/10)                                                  |Done on 2021-04-28
 2021-04-14 |Suggest            |[ExPheWAS: Suggest: README with link to pre-print and browser](https://github.com/pgxcentre/ExPheWAS/issues/1)                             |No response yet
 2021-04-07 |Suggest            |[GEMMA: Suggestion: link to R's gemma2?](https://github.com/genetics-statistics/GEMMA/issues/246)                                          |Response at 2021-04-14 (7 days), done
 2021-01-22 |Bug report         |[PureseqTM: Bug report: PureseqTM does not give an error on garbage input](https://github.com/PureseqTM/PureseqTM_Package/issues/14)       |No response yet
