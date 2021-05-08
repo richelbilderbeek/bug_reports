@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-05-08 |Bug report         |[latex2pdf-action: tlmgr itself needs to be updated](https://github.com/thomas-chauvet/latex2pdf-action/issues/1)                          |No response yet
 2021-04-26 |Question           |[SKAT: Simulated non-linear data fits linear null model best?](https://github.com/richelbilderbeek/reports/issues/19)                      |No response yet
 2021-04-26 |Question           |[Code GASVeM](https://github.com/richelbilderbeek/reports/issues/18)                                                                       |No response yet
 2021-04-26 |Question           |[GMA: Which license?](https://github.com/chaoning/GMA/issues/1)                                                                            |No response yet
