@@ -4,6 +4,8 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-05-10 |Error              |[GCTA: configure error: checking for EIGEN... CMake Errors](https://github.com/cooljeanius/gcta/issues/3)                                  |No response yet
+2021-05-10 |Pull Request       |[GCTA: Add GitHub Actions Continuous Integration service](https://github.com/cooljeanius/gcta/pull/2)                                      |No response yet
 2021-05-10 |Suggest            |[SIMER: add tests and CI](https://github.com/xiaolei-lab/SIMER/issues/2)                                                                   |No response yet
 2021-05-08 |Bug report         |[latex-action: Dock build fails: Client.Timeout exceeded while awaiting headers](https://github.com/xu-cheng/latex-action/issues/55)       |Response on 2021-05-09 (1 day), resolved
 2021-05-08 |Bug report         |[latex2pdf-action: tlmgr itself needs to be updated](https://github.com/thomas-chauvet/latex2pdf-action/issues/1)                          |No response yet
