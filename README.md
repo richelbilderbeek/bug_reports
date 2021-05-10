@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-05-10 |Suggest            |[GCTA: add example files to allow documentation examples to run](https://github.com/cooljeanius/gcta/issues/4)                             |No response yet
 2021-05-10 |Error              |[GCTA: configure error: checking for EIGEN... CMake Errors](https://github.com/cooljeanius/gcta/issues/3)                                  |No response yet
 2021-05-10 |Pull Request       |[GCTA: Add GitHub Actions Continuous Integration service](https://github.com/cooljeanius/gcta/pull/2)                                      |No response yet
 2021-05-10 |Suggest            |[SIMER: add tests and CI](https://github.com/xiaolei-lab/SIMER/issues/2)                                                                   |No response yet
