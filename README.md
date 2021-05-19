@@ -4,7 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
-2021-05-10 |Bug                |[G2P: No output and no error](https://github.com/XiaoleiLiuBio/G2P/issues/7)                                                               |No response yet
+2021-05-10 |Bug                |[G2P: No output and no error](https://github.com/XiaoleiLiuBio/G2P/issues/7)                                                               |No response yet, sent email at 2021-95-19
 2021-05-10 |Suggest            |[GCTA: add example files to allow documentation examples to run](https://github.com/cooljeanius/gcta/issues/4)                             |No response yet
 2021-05-10 |Error              |[GCTA: configure error: checking for EIGEN... CMake Errors](https://github.com/cooljeanius/gcta/issues/3)                                  |No response yet
 2021-05-10 |Pull Request       |[GCTA: Add GitHub Actions Continuous Integration service](https://github.com/cooljeanius/gcta/pull/2)                                      |No response yet
@@ -19,8 +19,8 @@ Date posted|Type               |Description                                     
 2021-04-22 |Suggest            |[fastCGP](https://github.com/YuanlongLiu/fastCGP/issues/1)                                                                                 |No response yet
 2021-04-21 |Question           |[simGWAS: Which version? This one, or the fork?](https://github.com/mdfortune/simGWAS/issues/7)                                            |No response yet
 2021-04-21 |Suggest            |[simGWAS: Suggest: remove backup files](https://github.com/mdfortune/simGWAS/issues/5)                                                     |No response yet
-2021-04-21 |Question           |[G2P: What is the license of G2P?](https://github.com/XiaoleiLiuBio/G2P/issues/5)                                                          |No response yet
-2021-04-21 |Question           |[G2P: Where is the source code?](https://github.com/XiaoleiLiuBio/G2P/issues/3)                                                            |No response yet
+2021-04-21 |Question           |[G2P: What is the license of G2P?](https://github.com/XiaoleiLiuBio/G2P/issues/5)                                                          |No response yet, sent email at 2021-95-19
+2021-04-21 |Question           |[G2P: Where is the source code?](https://github.com/XiaoleiLiuBio/G2P/issues/3)                                                            |No response yet, sent email at 2021-95-19
 2021-04-14 |Suggest            |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/issues/11)                                 |Start dialog on 2021-04-28
 2021-04-14 |Suggest            |[SKAT: Suggest: no use of attach in examples](https://github.com/leeshawn/SKAT/issues/10)                                                  |Done on 2021-04-28 (19 days)
 2021-04-14 |Suggest            |[ExPheWAS: Suggest: README with link to pre-print and browser](https://github.com/pgxcentre/ExPheWAS/issues/1)                             |Done on 2021-05-06 (22 days)
