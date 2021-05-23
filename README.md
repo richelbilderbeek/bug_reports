@@ -10,7 +10,7 @@ Date posted|Type               |Description                                     
 2021-05-10 |Pull Request       |[GCTA: Add GitHub Actions Continuous Integration service](https://github.com/cooljeanius/gcta/pull/2)                                      |No response yet
 2021-05-10 |Suggest            |[SIMER: add tests and CI](https://github.com/xiaolei-lab/SIMER/issues/2)                                                                   |No response yet
 2021-05-08 |Bug report         |[latex-action: Dock build fails: Client.Timeout exceeded while awaiting headers](https://github.com/xu-cheng/latex-action/issues/55)       |Response on 2021-05-09 (1 day), resolved
-2021-05-08 |Bug report         |[latex2pdf-action: tlmgr itself needs to be updated](https://github.com/thomas-chauvet/latex2pdf-action/issues/1)                          |No response yet
+2021-05-08 |Bug report         |[latex2pdf-action: tlmgr itself needs to be updated](https://github.com/thomas-chauvet/latex2pdf-action/issues/1)                          |Response and fixed on 2021-05-21 (13 days)
 2021-04-26 |Question           |[SKAT: Simulated non-linear data fits linear null model best?](https://github.com/richelbilderbeek/reports/issues/19)                      |No response yet
 2021-04-26 |Question           |[Code GASVeM](https://github.com/richelbilderbeek/reports/issues/18)                                                                       |No response yet
 2021-04-26 |Question           |[GMA: Which license?](https://github.com/chaoning/GMA/issues/1)                                                                            |No response yet
