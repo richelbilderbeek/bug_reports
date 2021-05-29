@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-05-29 |Feature request    |[document scheduled builds better](https://github.com/appveyor/website/issues/796)                                                         |No response yet
 2021-05-10 |Bug                |[G2P: No output and no error](https://github.com/XiaoleiLiuBio/G2P/issues/7)                                                               |No response yet, sent email at 2021-95-19
 2021-05-10 |Suggest            |[GCTA: add example files to allow documentation examples to run](https://github.com/cooljeanius/gcta/issues/4)                             |No response yet
 2021-05-10 |Error              |[GCTA: configure error: checking for EIGEN... CMake Errors](https://github.com/cooljeanius/gcta/issues/3)                                  |No response yet
