@@ -4,6 +4,9 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-06-15 |Pull request       |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/pull/14)                                   |No response yet
+2021-06-15 |Question           |[KMgene: status](https://github.com/richelbilderbeek/reports/issues/22)                                                                    |No response yet
+2021-06-15 |Question           |[MSKAT: underappreciated and response time](https://github.com/richelbilderbeek/reports/issues/23)                                         |No response yet
 2021-05-31 |Feature request    |[document scheduled builds using UI better](https://github.com/appveyor/website/issues/797)                                                |No response yet
 2021-05-29 |Feature request    |[document scheduled builds better](https://github.com/appveyor/website/issues/796)                                                         |Response on 2021-05-30 (2 days), resolved
 2021-05-10 |Bug                |[G2P: No output and no error](https://github.com/XiaoleiLiuBio/G2P/issues/7)                                                               |No response yet, sent email at 2021-95-19
