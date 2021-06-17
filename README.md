@@ -4,9 +4,10 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-06-17 |Suggest            |[hudson: Suggest: remove limit on the number of chromosomes](https://github.com/anastasia-lucas/hudson/issues/12)                          |No response yet
 2021-06-17 |Suggest            |[ggman: Use real value of sigLine, instead of letting the user transform it](https://github.com/drveera/ggman/issues/16)                   |No response yet
 2021-06-17 |Pull request       |[ggman: Use 'remotes' instead of 'devtools](https://github.com/drveera/ggman/pull/15)                                                      |No response yet
-2021-06-17 |Pull request       |[paper-ldpred2: Link to the Bioinformatics and BioRxiv papers](https://github.com/privefl/paper-ldpred2/pull/3)                            |No response yet
+2021-06-17 |Pull request       |[paper-ldpred2: Link to the Bioinformatics and BioRxiv papers](https://github.com/privefl/paper-ldpred2/pull/3)                            |Response on the same day, accepted
 2021-06-17 |Request status     |[ldpred: Fix a bug where get_beta could have opposite sign](https://github.com/bvilhjal/ldpred/pull/149)                                   |No response yet
 2021-06-15 |Pull request       |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/pull/14)                                   |No response yet
 2021-06-15 |Question           |[KMgene: status](https://github.com/richelbilderbeek/reports/issues/22)                                                                    |No response yet
@@ -92,6 +93,6 @@ Date posted|Type               |Description                                     
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'setwd("some_location")'](https://github.com/MangoTheCat/goodpractice/issues/21)      |Agreed on 2016-08-01, status unknown 
 2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'rm(list = ls())'](https://github.com/MangoTheCat/goodpractice/issues/20)             |Will check on 2016-08-01, status unknown 
 2016-05-09 |Bug report         |[rBEAST: rBEAST will not build](https://github.com/olli0601/rBEAST/issues/3)                                                               |Never a response, closed after 5 years
-2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/qxzkjp/Vigenere/issues/1)                                                     | No response yet
-2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/ekeller1983/Vigenere/issues/1)                                                | No response yet
+2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/qxzkjp/Vigenere/issues/1)                                                     |No response yet
+2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/ekeller1983/Vigenere/issues/1)                                                |No response yet
 
