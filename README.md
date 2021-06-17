@@ -4,6 +4,10 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-06-17 |Suggest            |[ggman: Use real value of sigLine, instead of letting the user transform it](https://github.com/drveera/ggman/issues/16)                   |No response yet
+2021-06-17 |Pull request       |[ggman: Use 'remotes' instead of 'devtools](https://github.com/drveera/ggman/pull/15)                                                      |No response yet
+2021-06-17 |Pull request       |[paper-ldpred2: Link to the Bioinformatics and BioRxiv papers](https://github.com/privefl/paper-ldpred2/pull/3)                            |No response yet
+2021-06-17 |Request status     |[ldpred: Fix a bug where get_beta could have opposite sign](https://github.com/bvilhjal/ldpred/pull/149)                                   |No response yet
 2021-06-15 |Pull request       |[SKAT: Suggest: use example data with named covariate columns](https://github.com/leeshawn/SKAT/pull/14)                                   |No response yet
 2021-06-15 |Question           |[KMgene: status](https://github.com/richelbilderbeek/reports/issues/22)                                                                    |No response yet
 2021-06-15 |Question           |[MSKAT: underappreciated and response time](https://github.com/richelbilderbeek/reports/issues/23)                                         |No response yet
