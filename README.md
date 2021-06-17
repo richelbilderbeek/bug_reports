@@ -4,6 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+2021-06-17 |Bug report         |[ggplot2: Can't add ggplot2::ggsave(...) to a ggplot object](https://github.com/tidyverse/ggplot2/issues/4517)                             |No response yet
 2021-06-17 |Suggest            |[hudson: Suggest: remove limit on the number of chromosomes](https://github.com/anastasia-lucas/hudson/issues/12)                          |No response yet
 2021-06-17 |Suggest            |[ggman: Use real value of sigLine, instead of letting the user transform it](https://github.com/drveera/ggman/issues/16)                   |No response yet
 2021-06-17 |Pull request       |[ggman: Use 'remotes' instead of 'devtools](https://github.com/drveera/ggman/pull/15)                                                      |No response yet
