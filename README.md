@@ -95,10 +95,10 @@ Date posted|Type               |Description                                     
 2017-05-16 |Feature suggest    |[Meschach: fixing warnings?](https://github.com/yageek/Meschach/issues/6)                                                                  |No response yet
 2016-08-25 |Improvement suggest|[OCLint: Added documentation for qmake](https://github.com/oclint/oclint-docs/pull/20)                                                     |First response at 2016-09-09 (16 days), second reply at 2017-07-15, closed without reason at 2020-11-19 (4 years and 3 months)
 2016-08-03 |Improvement suggest|[coda: suggested examples for effectiveSize documentation](https://github.com/richelbilderbeek/reports/issues/2)                           |No response yet
-2016-08-01 |Feature suggest    |[goodpractice: suggestion: if statements should use && for booleans](https://github.com/MangoTheCat/goodpractice/issues/22)                |Agreed on 2016-08-01, status unknown 
-2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'setwd("some_location")'](https://github.com/MangoTheCat/goodpractice/issues/21)      |Agreed on 2016-08-01, status unknown 
-2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'rm(list = ls())'](https://github.com/MangoTheCat/goodpractice/issues/20)             |Will check on 2016-08-01, status unknown 
+2016-08-01 |Feature suggest    |[goodpractice: suggestion: if statements should use && for booleans](https://github.com/MangoTheCat/goodpractice/issues/22)                |Agreed the same day, suggestion added
+2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'setwd("some_location")'](https://github.com/MangoTheCat/goodpractice/issues/21)      |Agreed the same day, suggestion added
+2016-08-01 |Feature suggest    |[goodpractice: suggestion: vignettes should not have 'rm(list = ls())'](https://github.com/MangoTheCat/goodpractice/issues/20)             |Agreed the same day, suggestion added
 2016-05-09 |Bug report         |[rBEAST: rBEAST will not build](https://github.com/olli0601/rBEAST/issues/3)                                                               |Never a response, closed after 5 years
-2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/qxzkjp/Vigenere/issues/1)                                                     |No response yet
-2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/ekeller1983/Vigenere/issues/1)                                                |No response yet
+2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/qxzkjp/Vigenere/issues/1)                                                     |Never a response, closed it myself at 2021-07-02
+2014-03-26 |Suggest            |[Vigenere: Improve class coding standard](https://github.com/ekeller1983/Vigenere/issues/1)                                                |Never a response, closed it myself at 2021-07-02
 
