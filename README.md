@@ -5,8 +5,8 @@ I write quite some reports to other developers. I keep an overview here.
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
 2021-06-30 |Bug report         |[ARTP2: read.bed fails on simple .bed file #6](https://github.com/zhangh12/ARTP2/issues/6)                                                 |No response yet
-2021-06-30 |Bug report         |[genio: cannot read a .bed file](https://github.com/OchoaLab/genio/issues/3)                                                               |No response yet
-2021-06-29 |Bug report         |[genio: read_bed fails on existing file with non-bed extension](https://github.com/OchoaLab/genio/issues/2)                                |No response yet
+2021-06-30 |Bug report         |[genio: cannot read a .bed file](https://github.com/OchoaLab/genio/issues/3)                                                               |Reponse and fix after one day
+2021-06-29 |Bug report         |[genio: read_bed fails on existing file with non-bed extension](https://github.com/OchoaLab/genio/issues/2)                                |Reponse and fix after one day
 2021-06-23 |Pull request       |[gen3sis: Add GitHub Actions CI](https://github.com/project-gen3sis/R-package/pull/51)                                                     |Response and accepted on the same day
 2021-06-22 |Status query       |[gen3sis: implement CI](https://github.com/project-gen3sis/R-package/issues/49)                                                            |Response on the same day, closed the day after by fixing it
 2021-06-17 |Bug report         |[ggplot2: Can't add ggplot2::ggsave(...) to a ggplot object](https://github.com/tidyverse/ggplot2/issues/4517)                             |Response on the same day, closed the Issue with answer
