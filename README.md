@@ -4,7 +4,7 @@ I write quite some reports to other developers. I keep an overview here.
 
 Date posted|Type               |Description                                                                                                                                |Status
 -----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
-2021-06-30 |Bug report         |[ARTP2: read.bed fails on simple .bed file #6](https://github.com/zhangh12/ARTP2/issues/6)                                                 |No response yet
+2021-06-30 |Bug report         |[ARTP2: read.bed fails on simple .bed file #6](https://github.com/zhangh12/ARTP2/issues/6)                                                 |Response and reject after 9 days
 2021-06-30 |Bug report         |[genio: cannot read a .bed file](https://github.com/OchoaLab/genio/issues/3)                                                               |Reponse and fix after one day
 2021-06-29 |Bug report         |[genio: read_bed fails on existing file with non-bed extension](https://github.com/OchoaLab/genio/issues/2)                                |Reponse and fix after one day
 2021-06-23 |Pull request       |[gen3sis: Add GitHub Actions CI](https://github.com/project-gen3sis/R-package/pull/51)                                                     |Response and accepted on the same day
